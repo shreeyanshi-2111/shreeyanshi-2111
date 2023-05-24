@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreeyanshi Gautam</h1>
-<h3 align="center">I'm currently a Sophomore at ABES Engineering College, Ghaziabad</h3>
+<h3 align="center">I'm currently a Senior at ABES Engineering College, Ghaziabad</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
